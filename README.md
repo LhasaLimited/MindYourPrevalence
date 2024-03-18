@@ -10,7 +10,7 @@ The “MindYourPrevalence.jpynb” file may be opened and executed in a JupyterL
 
 The two R files are R scripts that may be used in RStudio. The file “MindYourPrevalence.R” may be executed. It sources the files “UtilityFunctions.R”, so it can execute properly and shows an interactive plot with the same information and controls as above. The controls appears upon clicking on the cog icon in the top left corner of the Plots window of RStudio.
 
-The following pieces of software were used to implement the above Supplementary Material:
+The following pieces of software were used to implement the above supplementary material:
 - JupyterLab version 3.6.5 with Python 3.9.1 64-bit and the libraries Matplotlib version 0.1.6[1] and ipywidgets version 8.1.1[2]
 - R version 4.0.2 (2020-06-22)[3] and the ggplot2 library version 3.2.2[4]
 - RStudio version 2023.09.0 (build 463)[5]

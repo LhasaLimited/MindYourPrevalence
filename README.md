@@ -1,6 +1,8 @@
 # Mind your prevalence!
 
-The supplementary information contains 4 files: one word document, one ipynb file and two R files.
+This repository conttains the Supplementary Information fot the manuscript entitled "Mind your prevalence!" that was published in the [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/). To replace with doi when accepted.
+
+It contains 4 files: one word document, one ipynb file and two R files.
 
 The word document “MindYourPrevalence_SupplementaryInformation.docx” describes in detail the derivation of the performance metrics accuracy, Matthews’ correlation coefficient, positive predictivity, negative predictivity and Cohen’s kappa coefficient as functions of sensitivity, specificity and prevalence as well as their balanced version. Each plot and their corresponding function show the relationship that exists between the performance metrics and the prevalence at given values of sensitivity and specificity.
 

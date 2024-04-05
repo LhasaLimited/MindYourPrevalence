@@ -1,6 +1,6 @@
 # Mind your prevalence!
 
-This repository contains the supplementary information and materials for the manuscript entitled "Mind your prevalence!" that was published in [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/). To replace with doi if accepted.
+This repository contains the supplementary information and materials for the manuscript entitled "Mind your prevalence!" that was published in [Journal of Cheminformatics](https://doi.org/10.1186/s13321-024-00837-w).
 
 It contains 4 files: one pdf file, one ipynb file and two R files.
 

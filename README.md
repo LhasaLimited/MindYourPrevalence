@@ -4,7 +4,7 @@ This repository contains the supplementary information and materials for the man
 
 It contains 4 files: one pdf file, one ipynb file and two R files.
 
-The pdf file “MindYourPrevalence_SupplementaryInformation.docx” describes in detail the derivation of the performance metrics accuracy, Matthews’ correlation coefficient, positive predictivity, negative predictivity and Cohen’s kappa coefficient as functions of sensitivity, specificity and prevalence as well as their balanced version. Each plot and their corresponding function show the relationship that exists between the performance metrics and the prevalence at given values of sensitivity and specificity.
+The pdf file “MindYourPrevalence_SupplementaryInformation.pdf” describes in detail the derivation of the performance metrics accuracy, Matthews’ correlation coefficient, positive predictivity, negative predictivity and Cohen’s kappa coefficient as functions of sensitivity, specificity and prevalence as well as their balanced version. Each plot and their corresponding function show the relationship that exists between the performance metrics and the prevalence at given values of sensitivity and specificity.
 
 The “MindYourPrevalence.jpynb” file may be opened and executed in a JupyterLab notebook. Upon execution, an interactive plot shows the relationship between the above performance metrics and prevalence at given values of sensitivity and specificity. The values of sensitivity and specificity may be modified with sliding bars. Check boxes allow the user to select what performance metrics to display.
 
